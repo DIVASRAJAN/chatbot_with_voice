@@ -5,7 +5,7 @@ import openai
 import threading
 import speech_recognition as sr
 
-openai.api_key = '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'
+openai.api_key = 'your openai api key'
 spoken_response_lock = threading.Lock()
 
 
